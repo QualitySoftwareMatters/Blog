@@ -1,4 +1,4 @@
-![](https://github.com/toddmeinershagen/Blog.Posts/blob/master/images/happy_new_year_banner.jpg "Happy New Year!")
+![](https://raw2.github.com/toddmeinershagen/Blog.Posts/master/images/happy_new_year_banner.jpg "Happy New Year!")
 
 As the new year is upon us, I have decided that I need to more consistently contribute to the community.  And what better way to do that than to write more consistently on my blog. 
 
@@ -14,7 +14,7 @@ He then relates our craft to the art of playing music, and,
 
 So why would we expect to do it differently in our profession.  
 
-![](https://github.com/toddmeinershagen/Blog.Posts/blob/master/images/musician_practicing.jpg "A Practicing Violinist")
+![](https://raw2.github.com/toddmeinershagen/Blog.Posts/master/images/musician_practicing.jpg "A Practicing Violinist")
 
 It takes hours of practice in order to learn our craft and, unfortunately, too many are practicing on the job these days, because it is acceptable.  You cannot learn everything that you ought to know as a software craftsman by merely writing code for production software.  Focusing on certain aspects is needed in order to increase the quality and resilience of what we produce.  
 
