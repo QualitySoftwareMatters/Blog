@@ -24,11 +24,11 @@ How can a software craftsman do the same?  They can focus on looking at the full
 
 For starters, you may not have noticed it, but I am writing this blog now entirely in markdown syntax.  In this post, I learned the following:
 
-* **Images** - add ! at the beginning, follow with brackets [alt text] with some alternate text, open parentheses (url "optional title") with a url and a title, which is optional.
+* **Images** - add an exclamation '!' at the beginning, follow with brackets [alt text] with some alternate text, open parentheses (url "optional title") with a url and a title in quotes, which is optional.
 * **Strong Emphasis** - add two astericks '**' or two underlines '__' on both sides of a word/phrase to emphasize it in italics.
 * **Block Quotes** - add a greater than sign '>' to the left of each sentence and it will stand out as a quote.
 * **Unordered Lists** - add an astericks '*' before each line which is translated into an unordered list item in HTML.
-* **Inline Links** - add brackets [text] including any text to display and follow up with parentheses (url "optional title") with a url and optional title.
+* **Inline Links** - add brackets [text] including any text to display and follow up with parentheses (url "optional title") with a url and optional title in quotes.
 
 You can find out more about markdown syntax by looking at **[this post](http://daringfireball.net/projects/markdown/syntax#img)** from the Daring Fireball blog, which does a good job of explaining the basic features of markdown.
 
