@@ -1,20 +1,20 @@
-![](https://raw2.github.com/toddmeinershagen/Blog.Posts/master/images/happy_new_year_banner.jpg "Happy New Year!")
+![](https://cloud.githubusercontent.com/assets/177508/7893463/c24b7d0a-0623-11e5-8574-d300690d8a00.jpg "Happy New Year!")
 
-As the new year is upon us, I have decided that I need to more consistently contribute to the community.  And what better way to do that than to write more consistently on my blog. 
+As the new year is upon us, I have decided that I need to more consistently contribute to the community.  And what better way to do that than to write more consistently on my blog.
 
 In order to produce something a few times every week, I have decided to explore the tools that I use every day in greater depth - to look further into the nooks and crannies and make sure that I truly understand the capabilities of the tools that I leverage.  
 
-This idea came from the book, __"The Passionate Programmer"__ by Chad Fowler.  In it, he suggests that, 
+This idea came from the book, __"The Passionate Programmer"__ by Chad Fowler.  In it, he suggests that,
 
 > Our industry tends to practice on the job.
 
-He then relates our craft to the art of playing music, and, 
+He then relates our craft to the art of playing music, and,
 
 > Musicians are paid to perform in public—not to practice.  
 
 So why would we expect to do it differently in our profession.  
 
-![](https://raw2.github.com/toddmeinershagen/Blog.Posts/master/images/musician_practicing.jpg "A Practicing Violinist")
+![](https://cloud.githubusercontent.com/assets/177508/7893464/c4698c80-0623-11e5-9109-56c5e244f7e7.jpg "A Practicing Violinist")
 
 It takes hours of practice in order to learn our craft and, unfortunately, too many are practicing on the job these days, because it is acceptable.  You cannot learn everything that you ought to know as a software craftsman by merely writing code for production software.  Focusing on certain aspects is needed in order to increase the quality and resilience of what we produce.  
 

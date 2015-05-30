@@ -3,39 +3,39 @@ Last time I talked about how to use the [TransactionScope](http://msdn.microsoft
 In our case, we use [Dapper](https://code.google.com/p/dapper-dot-net/) to insert data before our tests and to assert things about the state of the database after exercising the [code-first Entity Framework](http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx) data layer functionality we are testing.  Below is our example.
 
 	private TransactionScope _scope;
-	
+
 	[SetUp]
 	public void SetUp()
 	{
 		_scope = new TransactionScope();
 	}
-	
+
 	[TearDown]
 	public void TearDown()
 	{
 		_scope.Dispose();
 	}
-	
+
 	[Test]
 	public void test_to_demo_ef_and_dapper_connections()
 	{
 		var person = new Person {FirstName = "Todd", LastName = "Meinershagen"};
 		var sql = "INSERT INTO dbo.Persons (FirstName, LastName) ";
 		sql = sql + "VALUES (@FirstName, @LastName)";
-		
+
 		using (var connection = new SqlConnection("a connection string"))
 		{
 			connection.Execute(sql, person);
 		}
-		
+
 		var db = new PersonContext();
-		var matchingPersons = 
+		var matchingPersons =
 			from p in db.Persons
 			where
 				(p.FirstName == person.FirstName) &&
 				(p.LastName == person.LastName)
 			select p;
-			
+
 		matchingPersons.FirstOrDefault().Should().NotBeNull();
 	}
 
@@ -62,7 +62,7 @@ So, instead of using a connection string as you specified:
 	Data Source=(local);
 	Initial catalog=LocalDb;
 	Integrated Security=True;
-	
+
 The system uses the following for EF:
 
 	Data Source=(local);
@@ -79,4 +79,3 @@ So, how do we get around this issue.
 One way would be to use EF for both production and test code, although this robs us of the benefit of quickly setting up data using a light-weight framework like Dapper.  Another option is to modify our test project's configuration file by explicitly specifying the Application Name for our connection string.  The system will then see the two connections as the same.  No more escalation to MSDTC!
 
 Hope this helps.
-
