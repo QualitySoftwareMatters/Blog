@@ -1,6 +1,6 @@
-How well do you know your tools?  
+How well do you know the tools you use on a daily basis?  
 
-Do you know all of the nooks and crannies of their capabilities or do you just understand the basic "hello world" features that you learned from some blog/podcast?  Or do you only know those bits that you had to use for your latest project? 
+Do you know all of the ins and outs of your particular language, platform, or tools?  Or do you only know those bits that you had to use for your latest project?  Or do you just understand the basic "hello world" features that you learned from a blog/podcast?   
 
 This idea came from the book, **The Passionate Programmer** by Chad Fowler. 
 
@@ -23,4 +23,4 @@ It takes hours of practice in order to learn our craft and, unfortunately, too m
 
 One of the areas that musicians focus on developing is **physical/coordination** or focusing on fundamental technical aspects of playing an instrument. They do this by playing scales in all of the range of the instrument, building the muscles in their lips or gaining callouses in their fingers, practicing dynamics with their diaphragms, etc. They cannot always be playing nice sounding music - they have to play simple, focused, seemingly monotonous exercises to focus on these fundamentals.
 
-How can a software craftsman do the same? They can focus on looking at the full range of functionality available to them within a certain language, platform, or tool. And they can practice using these tools in private exercises known as katas or personal projects. That is what I seek to do with this series. 
+How can a software craftsman do the same? They can focus on looking at the full range of functionality available to them within a certain language, platform, or tool. And they can practice using these tools in private exercises known as code katas or personal projects. 
