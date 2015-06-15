@@ -1,6 +1,13 @@
-How well do you know your tools?  Do you know all of the nooks and crannies of their capabilities or do you just understand the basic "hello world" features that you learned from some blog/podcast?  Or do you only know those bits that you had to use for your latest project? 
+How well do you know your tools?  
 
-This idea came from the book, **The Passionate Programmer** by Chad Fowler. In it, he suggests that, 
+Do you know all of the nooks and crannies of their capabilities or do you just understand the basic "hello world" features that you learned from some blog/podcast?  Or do you only know those bits that you had to use for your latest project? 
+
+This idea came from the book, **The Passionate Programmer** by Chad Fowler. 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=meinershagenf-20&marketplace=amazon&region=US&placement=1934356344&asins=1934356344&linkId=LNHTKBA2JZ5LHJLI&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+In it, he suggests that, 
 
 > Our industry tends to practice on the job.
 
