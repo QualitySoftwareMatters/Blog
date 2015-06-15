@@ -1,3 +1,5 @@
+![toolbelt](https://cloud.githubusercontent.com/assets/177508/8153148/a1a8eaec-12ee-11e5-99ed-89b291250fc3.png)
+
 How well do you know your tools?  
 
 Do you know all of the nooks and crannies of their capabilities or do you just understand the basic "hello world" features that you learned from some blog/podcast?  Or do you only know those bits that you had to use for your latest project? 
