@@ -1,4 +1,6 @@
-How well do you know the tools you use on a daily basis?  
+![toolbelt](https://cloud.githubusercontent.com/assets/177508/8153148/a1a8eaec-12ee-11e5-99ed-89b291250fc3.png)
+
+How well do you know your tools?  
 
 Do you know all of the ins and outs of your particular language, platform, or tools?  Or do you only know those bits that you had to use for your latest project?  Or do you just understand the basic "hello world" features that you learned from a blog/podcast?   
 
