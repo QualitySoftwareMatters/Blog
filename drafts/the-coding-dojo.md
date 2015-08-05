@@ -6,14 +6,14 @@ One of the ways to escape the daily grind and focus on developing new skills is 
 
 ## What is a Coding Dojo? ##
 
-A coding dojo is a periodic meeting where developers practice the craft of coding together with the object of learning how to do it better.  Each session should have a clear objective or focus and any code produced is purely for practice and should not be leveraged for real production software.  It's this aspect of throw away code that allows coders to feel safe to experiment and possibly fail while obtaining a higher level of skill.
-
 > In software we do our practicing on the job, and
 that’s why we make mistakes on the job. We need
 to find ways of splitting the practice from the profession.
 We need practice sessions.
 
 -Dave Thomas
+
+A coding dojo is a periodic meeting where developers practice the craft of coding together with the object of learning how to do it better.  Each session should have a clear objective or focus and any code produced is purely for practice and should not be leveraged for real production software.  It's this aspect of throw away code that allows coders to feel safe to experiment and possibly fail while obtaining a higher level of skill.
 
 * Coders
 * Together
